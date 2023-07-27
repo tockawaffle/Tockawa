@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Nodejs, Typescript**
 
-- 📫 Reach me on Discord **тоска#0001**
-
 - ⚡ Fun fact **I'm not who you think I am**
 
 <h3 align="left">Connect with me:</h3>
