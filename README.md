@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tockawa</h1>
-<h3 align="center">Somekind of a fullstack dev from Bruhzil</h3>
+<h1 align="center">Hi 👋, I'm Nixy</h1>
+<h3 align="center">A fullstack developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tockawaffle" alt="tockawaffle" /></a> </p>
 
-- 🔭 I’m currently working on [SynthAi Bot](https://github.com/tockawaffle/SynthAi-Bot), [Apple Pie](https://github.com/tockawaffle/Apple-Pie-Bot)
+- 🔭 I’m currently working on [Apple Pie](https://github.com/tockawaffle/Apple-Pie-Bot)
 
-- 🌱 I’m currently learning **Rust, NextJS, React, Ionic**
+- 🌱 I’m currently learning **Rust, NextJS**
 
-- 👯 I’m also working on [@Tockawa/WokCommands](https://github.com/tockawaffle/WOKCommands-v2)
+- 👯 I’m also working on Some other closed-source projects!
 
 - 💬 Ask me about **Nodejs, Typescript**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tockawaffle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tockawaffle" height="30" width="40" /></a>
+<a href="https://twitter.com/nixyi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tockawaffle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
