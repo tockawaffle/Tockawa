@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Apple Pie](https://github.com/tockawaffle/Apple-Pie-Bot)
 
-- 🌱 I’m currently learning **Rust, NextJS**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m also working on Some other closed-source projects!
 
